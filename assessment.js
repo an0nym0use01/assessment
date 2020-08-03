@@ -1,38 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@an0nym0use01
-progedu /
-assessment-for-download
-
-9
-0
-
-    25
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-assessment-for-download/assessment.js /
-@sifue
-sifue First commit
-Latest commit 0bb6344 on 16 Feb 2018
-History
-1 contributor
-102 lines (90 sloc) 5.15 KB
-Code navigation is available!
-
-Navigate your code with ease. Click on function and method calls to jump to their definitions or references in the same repository. Learn more
 (function () {
   'use strict';
   const userNameInput = document.getElementById('user-name');
@@ -135,18 +100,3 @@ Navigate your code with ease. Click on function and method calls to jump to thei
       '入力が同じ名前なら同じ診断結果を出力する処理が正しくありません。'
   );
 })();
-
-    © 2020 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
